@@ -1,14 +1,15 @@
 # Abdul-Kuyateh SOC Analyst Portfolio
 
-Welcome! This repository showcases my hands-on SOC work, labs, and projects completed while training with the **MYDFIR community**. It is designed to demonstrate practical skills, document my learning journey, and provide recruiters a clear view of my capabilities.
+Welcome! This repository showcases my hands-on SOC work, labs, and projects completed with the **MYDFIR community**.  
+It is designed to demonstrate practical skills, document my learning journey, and provide recruiters a clear view of my capabilities.
 
 ## Purpose
 - Apply SOC concepts in realistic scenarios  
 - Demonstrate technical and analytical skills  
-- Build a professional portfolio for employers
+- Build a professional portfolio for employers  
 
 ## Repo Overview
-Folders are organized to show a logical progression from foundational labs to advanced automation and community projects:
+Folders are structured for a **logical progression** from foundational labs to advanced automation and community projects:
 
 - `00-introduction/` – Portfolio overview and guidance  
 - `01-homelab/` – SOC lab setup and exercises  
@@ -19,18 +20,15 @@ Folders are organized to show a logical progression from foundational labs to ad
 - `06-soc-automation/` – SOC automation workflows  
 - `07-soc-automation-2.0/` – Advanced automation with bonus projects  
 - `08-honeypot/` – Honeypot setup and analysis  
-- `09-mdsa-projects/` – MYDFIR community hands-on projects
+- `09-mdsa-projects/` – MYDFIR community hands-on projects  
 
-## Navigation & Usage
-- Read this README first to understand the structure.  
-- Follow folders in numerical order for step-by-step learning.  
-- Each main project folder contains:  
-  - `README.md` → Project overview and workflow  
-  - `part-x/` → Step-by-step lab/project files  
-  - `skills-gained.md` → Key skills learned and applied  
+## Navigation Tips
+- Start with this README for high-level context  
+- Follow the numbered folders sequentially  
+- Each project folder has its own `README.md` and `skills-gained.md`  
 
 ## Why This Matters
-- Highlights my practical SOC skills to recruiters and hiring managers  
-- Shows a clear learning progression from basic to advanced  
-- Centralizes all projects and labs in one professional portfolio  
+- Shows my practical SOC skills to recruiters and hiring managers  
+- Highlights a logical learning progression from basic to advanced  
+- Centralizes all projects and labs in a professional portfolio
 
