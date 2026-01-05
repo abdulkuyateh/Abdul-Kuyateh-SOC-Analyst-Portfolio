@@ -1,4 +1,4 @@
-# Introduction to My SOC Analyst Portfolio 🛡️
+# Introduction to My SOC Analyst Portfolio Guide 🛡️
 
 Hi! I’m **Abdul Kuyateh**, and this folder provides guidance on navigating and using this portfolio effectively.  
 
