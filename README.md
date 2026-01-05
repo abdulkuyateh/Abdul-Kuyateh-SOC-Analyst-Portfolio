@@ -1,30 +1,36 @@
 # Abdul-Kuyateh SOC Analyst Portfolio
 
-Welcome! This repository showcases my journey and practical experience as a SOC Analyst. It contains hands-on labs, community projects, and exercises completed while training with the **MYDFIR community**.
+Welcome! This repository showcases my hands-on SOC work, labs, and projects completed while training with the **MYDFIR community**. It is designed to demonstrate practical skills, document my learning journey, and provide recruiters a clear view of my capabilities.
 
 ## Purpose
-- Apply cybersecurity and SOC concepts in realistic scenarios
-- Document and demonstrate my analytical and technical skills
-- Build a professional portfolio to present to employers
+- Apply SOC concepts in realistic scenarios  
+- Demonstrate technical and analytical skills  
+- Build a professional portfolio for employers
 
-## Repo Structure Overview
-- `00-introduction/` – Overview of the portfolio and how to use it
-- `01-homelab/` – Setting up a SOC lab
-- `02-vulnerability-management/` – Vulnerability scanning exercises
-- `03-active-directory/` – Active Directory labs and attack simulations
-- `04-active-directory-2.0/` – Advanced AD scenarios
-- `05-soar-edr/` – SOAR and EDR projects
-- `06-soc-automation/` – SOC automation workflows
-- `07-soc-automation-2.0/` – Advanced automation and bonus projects
-- `08-honeypot/` – Honeypot setup and analysis
+## Repo Overview
+Folders are organized to show a logical progression from foundational labs to advanced automation and community projects:
+
+- `00-introduction/` – Portfolio overview and guidance  
+- `01-homelab/` – SOC lab setup and exercises  
+- `02-vulnerability-management/` – Vulnerability scanning and reporting  
+- `03-active-directory/` – AD attack/defense labs  
+- `04-active-directory-2.0/` – Advanced AD scenarios  
+- `05-soar-edr/` – SOAR and EDR projects  
+- `06-soc-automation/` – SOC automation workflows  
+- `07-soc-automation-2.0/` – Advanced automation with bonus projects  
+- `08-honeypot/` – Honeypot setup and analysis  
 - `09-mdsa-projects/` – MYDFIR community hands-on projects
 
-## Why This Matters
-- Shows my practical SOC skills to recruiters and hiring managers
-- Demonstrates logical learning progression from basic to advanced
-- Provides a central hub for all my SOC projects and labs
+## Navigation & Usage
+- Read this README first to understand the structure.  
+- Follow folders in numerical order for step-by-step learning.  
+- Each main project folder contains:  
+  - `README.md` → Project overview and workflow  
+  - `part-x/` → Step-by-step lab/project files  
+  - `skills-gained.md` → Key skills learned and applied  
 
-## How to Navigate
-- Each main folder has its own `README.md` with project-level details
-- Check `skills-gained.md` files in each folder to see key takeaways
-- Follow the folders in numerical order for step-by-step learning
+## Why This Matters
+- Highlights my practical SOC skills to recruiters and hiring managers  
+- Shows a clear learning progression from basic to advanced  
+- Centralizes all projects and labs in one professional portfolio  
+
